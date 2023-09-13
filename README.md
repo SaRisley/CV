@@ -10,7 +10,7 @@ Makers Academy bootcamp has given me even more hands-on knowledge and experience
 | ---------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------- |
 | **Infinity Trails**        | Using Open AI to create a ‘Choose your own adventure’ game.                        | React, Node.js, Express. Deployed on Vercel. |
 | **AceBook**                  | A Facebook replica done as part of a two week project at Makers Academy.           | MERN                                         |
-| **Rock-Paper-Scissors**      | A web app to experiment with React and sharing state/props amongst components. This was also a useful project for experimenting with creating a more engaging UI.    | Javascript, React, Vite, Vitest, CSS         | Deployed on AWS Amplify 
+| **Rock-Paper-Scissors**      | A web app to experiment with React and sharing state/props amongst components. This was also a useful project for experimenting with creating a more engaging UI.    | Javascript, React, Vite, Vitest, CSS. Deployed on AWS Amplify 
 
 ## Work Experience
 
