@@ -64,7 +64,6 @@ _Staff Nurse_ (March 2017  - October 2018)
 #### Manchester Metropolitan University (March 2014 - March 2017)
 - BSc (Hons) Adult Nursing. 2:1.
 
-
 ## Hobbies
 
 When not away from my computer I can often be found at the gym. I coach, train and often compete in both CrossFit and Olympic Weightlifting.
