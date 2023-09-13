@@ -63,7 +63,7 @@ _Staff Nurse_ (March 2017  - October 2018)
 
 #### Manchester Metropolitan University (March 2014 - March 2017)
 - BSc (Hons) Adult Nursing. 2:1.
-- 
+
 
 ## Hobbies
 
