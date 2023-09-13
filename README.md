@@ -59,7 +59,7 @@ _Staff Nurse_ (March 2017  - October 2018)
 - Experience in building and deploying end to end projects.
 - Strong focus on OOP & TDD.
 - Working with agile methodologies.
-- Solid understanding and experience with Git version control
+- Solid understanding and experience with Git version control.
 
 #### Manchester Metropolitan University (March 2014 - March 2017)
 - BSc (Hons) Adult Nursing. 2:1.
