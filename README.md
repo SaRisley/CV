@@ -35,15 +35,15 @@ _Staff Nurse_ (March 2017  - October 2018)
 ## Skills
 
 #### Object Oriented Programming 
-- Through my own study and more recently through my bootcamp with Makers Academy I have developed a solid understanding and profecieny with OOP, particularly with Javascript and Python. I feel very confident working with OOP languages and am able to produce high quality, readable, resuable and scalable code.
+- Through my own study and more recently through my bootcamp with Makers Academy I have developed a solid understanding and profecieny with OOP, particularly with Javascript and Python. I feel very confident working with OOP languages and I am able to produce high quality, readable, resuable and scalable code.
 
 #### Test Driven Development
-- Makers Academy had a very strong focus on TDD and this has become an invaluable habit I practice when writing an code. It allows my code to be clear, concise and allows for very easy and minmal debugging. Every project I completed at Makers used TDD which meant that even as the codebase started to scale signifcantly, there was high test coverage throughout and it remained high quality and ran exactly as intended. 
+- Makers Academy had a very strong focus on TDD and this has become an invaluable habit I practice when writing any code. It allows my code to be clear, concise and allows for very easy and/or minmal debugging. Every project I completed at Makers used TDD which meant that even as the codebase started to scale signifcantly, there was high test coverage throughout, it remained high quality and ran exactly as intended. 
   
 #### Communication
 - As a frontline nurse working in high acuity areas such as intensive care and A&E, strong communication skills were imperative. It was essential to be able to clearly communicate roles, tasks and instructions in acute and high pressure situations.
-Additionally, I was able to clearly and empathetically communicate with patients, friends and relatives in order to update them on situations without over complicating or using medical jargon. I believe this will be hugely beneficial when working with a team of developers as I feel confident in clearly and coherently explaining the purpose of my code even in a complex code base. 
-- Similarly, as a sports coach, particularly when coaching a sport as technical as Olympic Weightlifting or gymnastics, it is incredible important that I can clearly explain and instruct how a movement is to be performed and ensure the client understands not only how but why the movement is performed in this way.
+Additionally, I was able to clearly and empathetically communicate with patients, friends and relatives in order to update them on situations without over complicating or using medical jargon. I believe this will be hugely beneficial when working with a team of developers as I can clearly and coherently explaining the purpose of my code even in a complex code base. I can also confidently explain the functionaility to non-technical clients. 
+- Similarly, as a sports coach, particularly when coaching a sport as technical as Olympic Weightlifting or gymnastics, it is incredible important that I can clearly explain and instruct how a movement is to be performed and ensure the client understands not only how but why the movement is performed in this way. This ensures the client is safe and also is able to enjoy the learning process and feel supported.
 
 #### Time management
 - It was essential to be able to clerly manage tasks and prioritse appropriately whilst working in A&E during the height of the Covid-19 pandemic. Depsite the high pressure environment I was able to clearly triage and prioritse tasks to maintain patient safety.
@@ -51,7 +51,7 @@ Additionally, I was able to clearly and empathetically communicate with patients
 - I feel these time management skills have set me up very well to ensure I am able to keep to tight deadlines and manage and prioritse tasks to ensure these are met.
 
 #### Teamwork
-- All of my previous work experience has involved working within a larger and often multidisciplinary team. More recently I have gained invaluable experience of working within a team of developers through my bootcamp with Makers Academy. In each team project we adhered to agile working methodolgies in order to work effectively and ultimately produce high quality projects. This involved daily standups, frequent retros and having open channels of communcaition to in order to work effectivently with each developer or pair working on clear, prioritsed tasks.
+- All of my previous work experience has involved working within a larger and often multidisciplinary team. More recently I have gained invaluable experience of working within a team of developers through my bootcamp with Makers Academy. In each team project we adhered to agile working methodolgies in order to work efficiently and ultimately produce high quality projects. This involved daily standups, frequent retros and having open channels of communcaition to in order to work effectively, with each developer or pair working on clear, prioritsed tasks.
 
 
 ## Education
@@ -61,11 +61,11 @@ Additionally, I was able to clearly and empathetically communicate with patients
 - Experience in building and deploying end to end projects.
 - Strong focus on OOP & TDD.
 - Working with agile methodologies.
-- Solid understanding and experience with Git version control.
+- Solid understanding and experience with Git/version control.
 
 #### Manchester Metropolitan University (March 2014 - March 2017)
 - BSc (Hons) Adult Nursing. 2:1.
 
 ## Hobbies
 
-When not away from my computer I can often be found at the gym. I coach, train and often compete in both CrossFit and Olympic Weightlifting.
+When not at my computer I can often be found at the gym. I coach, train and often compete in both CrossFit and Olympic Weightlifting.
